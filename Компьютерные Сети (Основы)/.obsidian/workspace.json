@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12. Wi-Fi/Пространственный поток (Spatial Stream).md",
+                "file": "12. Wi-Fi/Протокол MACA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пространственный поток (Spatial Stream)"
+              "title": "Протокол MACA"
             }
           }
         ]
@@ -181,10 +181,23 @@
   },
   "active": "dcd55c0f262eb300",
   "lastOpenFiles": [
-    "12. Wi-Fi/MIMO.md",
-    "12. Wi-Fi/Пространственный поток (Spatial Stream).md",
+    "12. Wi-Fi/CSMA CA.md",
+    "12. Wi-Fi/Протокол MACA.md",
     "12. Wi-Fi/Wi-Fi.md",
+    "12. Wi-Fi/Подтверждение получения данных Wi-Fi.md",
+    "08. Технология Ethernet/Передача кадра в CSMA CD.md",
+    "08. Технология Ethernet/CSMA CD.md",
+    "07. Канальный уровень OSI/Методы выделения кадров Канальным уровнем OSI.md",
+    "12. Wi-Fi/MIMO.md",
     "12. Wi-Fi/OFDM.md",
+    "12. Wi-Fi/Проблема \"скрытой\" станции.md",
+    "12. Wi-Fi/Пространственный поток (Spatial Stream).md",
+    "08. Технология Ethernet/Концентратор (Hub).md",
+    "08. Технология Ethernet/Алгоритм обратного обучения.md",
+    "08. Технология Ethernet/Классический Ethernet.md",
+    "08. Технология Ethernet/Коммутатор (switch).md",
+    "08. Технология Ethernet/Коммутируемый Ethernet.md",
+    "12. Wi-Fi/Проблема \"засвеченной\" станции.md",
     "06. Физический уровень OSI/Физический уровень OSI.md",
     "11. Протокол STP/BPDU.md",
     "11. Протокол STP/Широковещательный шторм (Broadcast Storm).md",
@@ -194,22 +207,9 @@
     "05. Модель и стек протоколов TCP IP (Основы)/Стек протоколов TCP IP.md",
     "09. MAC адреса/MAC-адрес.md",
     "07. Канальный уровень OSI/Обнаружение и исправление ошибок Канальным уровнем OSI.md",
-    "04. Модель OSI (Основы)/Модель OSI (Основы).md",
-    "10. VLAN/VLAN.md",
-    "10. VLAN/Реализация VLAN.md",
     "12. Wi-Fi",
-    "08. Технология Ethernet/Коммутатор (switch).md",
-    "11. Протокол STP/Root Bridge.md",
-    "02. Топология сетей/Виды топологий сети.md",
-    "01. Классификация сетей/Протяженность сетей.md",
-    "01. Классификация сетей/Тип коммутации.md",
-    "01. Классификация сетей/Технологии передачи.md",
-    "09. MAC адреса/Типы Mac-адресов.md",
     "11. Протокол STP",
     "prob",
-    "08. Технология Ethernet/Ethernet II.md",
-    "08. Технология Ethernet/Ethernet.md",
-    "08. Технология Ethernet/Уровни Ethernet.md",
     "10. VLAN",
     "10. VLAN",
     "09. MAC адреса",
