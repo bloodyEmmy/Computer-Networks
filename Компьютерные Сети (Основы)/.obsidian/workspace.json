@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12. Wi-Fi/Протокол MACA.md",
+                "file": "12. Wi-Fi/Wi-Fi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Протокол MACA"
+              "title": "Wi-Fi"
             }
           }
         ]
@@ -181,10 +181,14 @@
   },
   "active": "dcd55c0f262eb300",
   "lastOpenFiles": [
-    "12. Wi-Fi/CSMA CA.md",
     "12. Wi-Fi/Протокол MACA.md",
-    "12. Wi-Fi/Wi-Fi.md",
     "12. Wi-Fi/Подтверждение получения данных Wi-Fi.md",
+    "12. Wi-Fi/Wi-Fi.md",
+    "09. MAC адреса/MAC-адрес.md",
+    "12. Wi-Fi/Формат кадра Wi-Fi уровня MAC.md",
+    "12. Wi-Fi/Типы кадров в Wi-Fi.md",
+    "08. Технология Ethernet/Ethernet II.md",
+    "12. Wi-Fi/CSMA CA.md",
     "08. Технология Ethernet/Передача кадра в CSMA CD.md",
     "08. Технология Ethernet/CSMA CD.md",
     "07. Канальный уровень OSI/Методы выделения кадров Канальным уровнем OSI.md",
@@ -203,10 +207,6 @@
     "11. Протокол STP/Широковещательный шторм (Broadcast Storm).md",
     "11. Протокол STP/Состояния портов в STP.md",
     "11. Протокол STP/Протокол STP.md",
-    "11. Протокол STP/Алгоритм работы STP.md",
-    "05. Модель и стек протоколов TCP IP (Основы)/Стек протоколов TCP IP.md",
-    "09. MAC адреса/MAC-адрес.md",
-    "07. Канальный уровень OSI/Обнаружение и исправление ошибок Канальным уровнем OSI.md",
     "12. Wi-Fi",
     "11. Протокол STP",
     "prob",
