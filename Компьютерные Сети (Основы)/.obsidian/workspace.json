@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16. Управляющие протоколы сетевого уровня/Протокол ARP.md",
+                "file": "100. test/jfrejfe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Протокол ARP"
+              "title": "jfrejfe"
             }
           }
         ]
@@ -140,8 +140,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -157,9 +157,19 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "8815653ae8f777d1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,10 +190,13 @@
   },
   "active": "dcd55c0f262eb300",
   "lastOpenFiles": [
+    "16. Управляющие протоколы сетевого уровня/Протокол ARP.md",
+    "100. test/jfrejfe.md",
+    "100. test/jefne.md",
+    "100. test",
     "16. Управляющие протоколы сетевого уровня/Управляющие протоколы сетевого уровня.md",
     "09. MAC адреса/Типы Mac-адресов.md",
     "16. Управляющие протоколы сетевого уровня/Алгоритм работы ARP.md",
-    "16. Управляющие протоколы сетевого уровня/Протокол ARP.md",
     "16. Управляющие протоколы сетевого уровня/Алгоритм работы DHCP.md",
     "16. Управляющие протоколы сетевого уровня/Протокол DHCP.md",
     "12. Wi-Fi/Протокол MACA.md",
@@ -204,9 +217,7 @@
     "12. Wi-Fi/CSMA CA.md",
     "15. Протокол IP/Протокол IP.md",
     "05. Модель и стек протоколов TCP IP (Основы)/Модель TCP IP.md",
-    "15. Протокол IP/Фрагментация.md",
     "16. Управляющие протоколы сетевого уровня",
-    "15. Протокол IP/Маршрутизация.md",
     "15. Протокол IP",
     "14. IP-адреса",
     "13. Сетевой уровень OSI",
@@ -214,7 +225,6 @@
     "11. Протокол STP",
     "prob",
     "10. VLAN",
-    "10. VLAN",
-    "09. MAC адреса"
+    "10. VLAN"
   ]
 }
